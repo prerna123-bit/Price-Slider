@@ -149,7 +149,7 @@ input[type="range"]::-webkit-slider-thumb {
     }
 
     .projtitle {
-        width: 110%;
+        width: 100%;
         position: relative;
         right: 26px;
     }
